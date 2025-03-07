@@ -2,6 +2,10 @@
 
 Trust Lines on Stacks prevents ByBit-like hacks by preventing unauthorized transfers to accounts not on your wallet white list.
 
+# Demo
+
+https://resilient-bombolone-da0704.netlify.app/
+
 # Trust Lines On Stacks
 ## Keep Shit Outcha Wallet
 ### Solve ByBit Hacks
